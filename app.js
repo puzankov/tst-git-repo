@@ -32,7 +32,7 @@ function render(req, res) {
                 {
                     "info": {
                         "success": false,
-                        "code": 12345
+                        "code": 00001
                     }
                 }
             ])
